@@ -1,14 +1,6 @@
 #My_Header{
-    padding: 2px;
-    padding-left: 25px;
-    padding-right: 25px;
-    padding-top: 20px;
-    padding-bottom: 2px;
-}
-#My_Header{   
-    border: 2000;
-    border-color: black;
-    
+    position: sticky;
+    left: 20%;
 }
 h1{
     color:crimson;
